@@ -46,4 +46,6 @@ This React application enables users to search for movies, TV series, or episode
 
 - [OMDb API Documentation](https://www.omdbapi.com/)
 
+## Local:
+ (http://localhost:5173/) 
 ---
